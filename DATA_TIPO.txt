@@ -1,0 +1,39 @@
+Tipo de dados
+Dicionário
+
+Saída de um vetor_dicionário
+
+{'author_list': ['OREGAN, B', 'GRATZEL, M'],
+ 'doi': 'WOS:A1991GL69600062',
+ 'keyword_list': ['PHOTOELECTROCHEMICAL CONVERSION',
+                  'ELECTROCHEMISTRY',
+                  'COMPLEXES',
+                  'LIGHT',
+                  'PHOTOCHEMISTRY',
+                  'ELECTRICITY',
+                  'ELECTRODES'],
+ 'publication_year': 1991,
+ 'reference_list': ['ALONSO N, 1981, REV PHYS APPL, V16, P5, DOI 10.1051/rphysap:019810016010500',
+                    'AMADELLI R, 1990, J AM CHEM SOC, V112, P7099, DOI 10.1021/ja00176a003',
+                    'ANDERSON MA, 1988, J MEMBRANE SCI, V392, P43',
+                    'BARD AJ, 1980, SCIENCE, V207, P139, DOI 10.1126/science.207.4427.139',
+                    'BUCHER K, 1980, J PHYS ZELT, V21, P237',
+                    'FUJISHIMA A, 1972, NATURE, V238, P37, DOI 10.1038/238037a0',
+                    'GERISCHER H, 1990, ELECTROCHIM ACTA, V35, P1677, DOI 10.1016/0013-4686(90)87067-C',
+                    'OREGAN B, 1990, J PHYS CHEM-US, V94, P8720, DOI 10.1021/j100387a017',
+                    'HELLER A, 1981, ACCOUNTS CHEM RES, V14, P154, DOI 10.1021/ar00065a004',
+                    'JURIS A, 1988, COORDIN CHEM REV, V84, P85, DOI 10.1016/0010-8545(88)80032-8',
+                    'LICHT S, 1987, NATURE, V326, P863, DOI 10.1038/326863a0',
+                    'MATSUMURA M, 1977, B CHEM SOC JPN, V50, P2533, DOI 10.1246/bcsj.50.2533',
+                    'MEMMING R, 1979, PHILIPS TECH REV, V38, P160',
+                    'NAZEERUDDIN MK, 1990, HELV CHIM ACTA, V73, P1788, DOI 10.1002/hlca.19900730624',
+                    'NOZIK AJ, 1980, PHILOS T R SOC A, V295, P453, DOI 10.1098/rsta.1980.0141',
+                    'TRIBUTSCH H, 1977, J ELECTROANAL CHEM, V81, P97, DOI 10.1016/0368-1874(77)80287-6',
+                    'TUFTS BJ, 1987, NATURE, V326, P861, DOI 10.1038/326861a0',
+                    'WILLIG F, 1990, J AM CHEM SOC, V112, P2702, DOI 10.1021/ja00163a035',
+                    'WRIGHTON MS, 1979, ACCOUNTS CHEM RES, V12, P303, DOI 10.1021/ar50141a001'],
+ 'title': ''}
+
+Podemos testar as co-citações, das palavras chaves OU dos artigos.
+Como manter salvo as palavras chaves para o cluster
+O ano deve ser usado

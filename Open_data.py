@@ -107,9 +107,22 @@ def selectONEyear(x,YEAR):
 
             keyword.append(LL)
     return keyword
+
+def listaparatupla(vetorlist):
+    vetor =[]
+    for i in vetorlist:
+        i.sort()
+        for j in range (0,len(i)-1):
+            for k in range(j+1,len(i)):
+                vetor.append((i[j],i[k]))
+                #vetor.append(str(i[j])+' and '+str(i[k]))
+
+    return vetor
+
 ##################################
 #abrindo os arquivos e usando o metodo selectyearas
 x=load_doc_list("downloads_1.txt")
 keyword=[]
 keyword = selectyeras(x,2000,2005)
 
+vetorlista = listaparatupla(keyword)
